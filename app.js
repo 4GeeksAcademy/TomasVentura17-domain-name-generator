@@ -1,6 +1,6 @@
-var pronoun = ["the", "our", "what"];
-var adj = ["great", "big", "giant"];
-var noun = ["jogger", "racoon", "dog"];
+let pronoun = ["the", "our", "what"];
+let adj = ["great", "big", "giant"];
+let noun = ["jogger", "racoon", "dog"];
 
 console.log("Hello World");
 for (let i = 0; i < pronoun.length; i++) {
